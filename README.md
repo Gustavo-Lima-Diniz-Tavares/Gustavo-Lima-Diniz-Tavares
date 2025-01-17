@@ -10,7 +10,7 @@
   
 <div style="display: inline_block"><br/>
 
-<img width="500px"  src="https://skillicons.dev/icons?i=html,css,javascript,git,react" />          
+<img height="50px" src="https://skillicons.dev/icons?i=html,css,javascript,git,react" />          
 
 <br>
 <br>
